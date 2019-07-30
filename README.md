@@ -1,0 +1,2 @@
+# DR-thermo
+The DR-thermo algorithm can be used to curate experimental thermodynamic data from different sources to generate reliable data-banks such that all measurements are modified to be thermodynamically consistent and any missing reaction or formation Gibbs energies can be predicted either directly or using group contributions. The algorithm can also be used to identify “unobservable” reaction and formation Gibbs energies, which can be targets for future experiments. MATLAB (preferably the latest version) is required to execute the code
